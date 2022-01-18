@@ -1,3 +1,3 @@
-"# htmltutorial"
+"# JStutorial"
 
 test subject
